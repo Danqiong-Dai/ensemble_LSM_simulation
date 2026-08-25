@@ -1,0 +1,4 @@
+First, verify the time zone of the observational dataset and convert the timestamps to UTC 
+if necessary to ensure consistency with the model forcing data. 
+The datasets provided by the OBS group do not always explicitly account for time-zone conversion, 
+which may introduce a temporal offset between the observations and model simulations.
