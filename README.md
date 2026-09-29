@@ -1,6 +1,7 @@
 # ensemble_LSM_simulation (update date: July 18th, 2025, Jun 16 2026)
 
 This repository serves as a backup for the three-model simulations over the Scotty Creek site (Northwest Territories, Canada).
+```text
 boreal-model-intercomparison/
 │
 ├── src/
